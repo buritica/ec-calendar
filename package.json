@@ -13,14 +13,14 @@
   "author": "Juan Pablo Buritica <buritica@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "babel": "^4.4.5",
-    "broccoli": "^0.13.3",
+    "babel": "^6.5.2",
+    "broccoli": "^1.1.0",
     "broccoli-dist-es6-module": "git://github.com/buritica/broccoli-dist-es6-module",
-    "chai": "^2.0.0",
-    "mocha": "^2.1.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
     "sinon": "^1.17.0"
   },
   "dependencies": {
-    "lodash": "^3.3.0"
+    "lodash": "^4.17.4"
   }
 }
