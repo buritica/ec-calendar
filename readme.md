@@ -1,5 +1,7 @@
 #ec-calendar
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/buritica/ec-calendar.svg)](https://greenkeeper.io/)
+
 A module with all the important dates for Elizabeth & Clarke
 
 [![Circle CI](https://circleci.com/gh/buritica/ec-calendar.svg?style=svg)](https://circleci.com/gh/buritica/ec-calendar)
